@@ -11,3 +11,5 @@ The aim of the project is to define based on the chronology of the Data Breaches
 
 For our model we will use clustering. 
 
+Data visualization is available on Tableau Public: https://public.tableau.com/profile/francesca.mele2117#!/
+
