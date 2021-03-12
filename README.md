@@ -4,6 +4,9 @@ The aim of the project is to define based on the chronology of the Data Breaches
 
 -investments in Security
 
--changes in procedures within a business sector or group
+-changes in procedures within a business sector or group in terms of awareness and practices
 
 -improvements in technologies adopted for prevention
+
+For our model we will use clustering. 
+
